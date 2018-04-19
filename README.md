@@ -8,4 +8,3 @@
 * Classifier Design
 * Hyperparameter fine tuning
 * Classifier statics: confusion matrix, precision, recall 
-
