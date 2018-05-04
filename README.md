@@ -1,10 +1,5 @@
-### In this work, a basic approach is presented, to how to build, debug and fine tune a machine learning model to cancer progression
+### In this work, a basic approach to predict the concrete strength
 # Here is the result
 
-> [Link](http://nbviewer.jupyter.org/github/saurbkumar/cancer_prediction/blob/master/figure.ipynb) - Click to see the results
+> [Link](http://nbviewer.jupyter.org/github/saurbkumar/concrete_strength_prediction/blob/master/concrete_strength_predict.ipynb) - Click to see the results
 
-### Parts covered : 
-* Data cleansing
-* Classifier Design
-* Hyperparameter fine tuning
-* Classifier statics: confusion matrix, precision, recall 
